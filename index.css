@@ -1,0 +1,12 @@
+@charset "utf-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+canvas {
+  background: rgba(80, 78, 81, 0.363);
+  display: block;
+  margin: 20px auto;
+
+}
